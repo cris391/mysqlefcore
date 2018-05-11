@@ -1,0 +1,10 @@
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.csproj.CoreCompileInputs.cache
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.AssemblyInfoInputs.cache
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.AssemblyInfo.cs
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.deps.json
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.runtimeconfig.json
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.runtimeconfig.dev.json
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.dll
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.pdb
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.dll
+/Users/cris/Dvlpment/Dotnet/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.pdb
